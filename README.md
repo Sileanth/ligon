@@ -7,13 +7,14 @@ Site gathering League of Legends stats
 ![[main.png]]
 
 ### Champion Tierlist
+
 ![[tierlist.png]]
 
 ### Player Match History
 ![[player_view.png]]
 
 ### Champion Stats View
-![[champion_view.png]]
+![champion view](https://github.com/Sileanth/ligon/blob/master/assets/champion_view.png)
 
 ### Top Players view
 ![[top_players.png]]
