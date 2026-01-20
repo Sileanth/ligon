@@ -1,0 +1,9 @@
+services:
+  drizzle-postgres:
+    image: postgres:latest
+    container_name: drizzle-postgres
+    environment:
+      - POSTGRES_PASSWORD=${DATABASE_PASSWORD}
+    ports:
+      - "5432:5432"
+    restart: always
